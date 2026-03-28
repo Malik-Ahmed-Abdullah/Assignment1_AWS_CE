@@ -6,7 +6,7 @@ UniEvent is a scalable, fault-tolerant university event management system deploy
 ---
 
 ## 🌐 Live URL
-> Access via Load Balancer DNS: (to be added)
+> Access via Load Balancer DNS: http://unievent-alb-1021827508.eu-north-1.elb.amazonaws.com/
 
 ---
 
